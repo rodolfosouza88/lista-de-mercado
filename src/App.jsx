@@ -1,4 +1,3 @@
-/* eslint-disable no-unused-vars */
 import { useRef, useState } from "react";
 import ItemLista from "./ItemLista";
 
@@ -20,7 +19,7 @@ function App() {
 
   return (
     <>
-      <h1>Lista Mercado</h1>
+      <h1 className="text-3xl font-bold">Lista Mercado</h1>
       <input
         ref={inputAdicionar}
         type="text"
