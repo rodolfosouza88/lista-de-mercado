@@ -1,92 +1,48 @@
-🛒 Lista de Mercado (React + Vite + Tailwind CSS)
-Projeto simples e funcional de uma Lista de Mercado, desenvolvido com React e configurado com Vite para um ambiente moderno, rápido e eficiente. A estilização foi feita utilizando Tailwind CSS, um framework utilitário para construção de interfaces elegantes e responsivas.
+# 📋 Lista de Mercado
 
-✨ Funcionalidades
-✅ Adicionar novos itens à lista
-✅ Remover itens da lista
-✅ Lista interativa com atualização em tempo real (useState)
-✅ Estilização moderna com Tailwind CSS
+Um aplicativo simples e prático para gerenciar suas listas de compras, ajudando você a organizar os itens que precisa comprar de forma rápida e eficiente.
 
-🚀 Tecnologias Utilizadas
-⚛️ React
+---
 
-⚡ Vite
+## 🚀 Funcionalidades
 
-🎨 Tailwind CSS
+- Adicionar itens à lista de compras
+- Marcar itens como comprados
+- Remover itens da lista
+- Armazenamento local para manter a lista mesmo após fechar o navegador
+- Interface intuitiva e responsiva para uso em dispositivos móveis e desktop
 
-🛠️ JavaScript (ES6+)
+---
 
-🖌️ HTML + CSS
+## 🛠️ Tecnologias
 
-📥 Instalação e Execução Local
-Clone o repositório:
+- React.js
+- HTML5
+- CSS3
+- LocalStorage para persistência dos dados no navegador
 
-bash
-Copiar
-Editar
-git clone https://github.com/seu-usuario/nome-do-repo.git
-cd nome-do-repo
-Instale as dependências:
+---
 
-bash
-Copiar
-Editar
-npm install
-Inicie o servidor de desenvolvimento:
+## 📱 Demonstração
 
-bash
-Copiar
-Editar
-npm run dev
-Acesse no navegador:
-http://localhost:5173 (ou a porta indicada no terminal)
+Confira o projeto funcionando online no link abaixo:  
+[https://github.com/rodolfosouza88/lista-de-mercado](https://github.com/rodolfosouza88/lista-de-mercado)
 
-🌐 Deploy
-O projeto está disponível em produção:
+---
 
-🔗 https://lista-de-mercado-ten.vercel.app/
+## 🤝 Contribuição
 
-📝 Sobre o Projeto
-Este projeto tem como objetivo praticar conceitos fundamentais do React, como:
+Contribuições são bem-vindas!  
+Sinta-se à vontade para abrir issues ou enviar pull requests.
 
-Manipulação de estado com useState
+---
 
-Renderização condicional
+## 📫 Contato
 
-Componentização e boas práticas
+- Rodolfo Vasconcellos de Souza
+- Email: rodolfovasconcellos88@gmail.com
+- LinkedIn: [https://www.linkedin.com/in/rodolfosouza88/](https://www.linkedin.com/in/rodolfosouza88/)
 
-Estruturação moderna com Vite
+---
 
-Estilização rápida e responsiva com Tailwind CSS
-
-Ideal para quem está começando a explorar o ecossistema React e o Tailwind de forma prática.
-
-💡 Melhorias Futuras
-✅ Persistência de dados com localStorage
-
-✅ Filtro e ordenação de itens
-
-✅ Testes unitários com Jest
-
-✅ Responsividade aprimorada
-
-🤝 Contribuição
-Contribuições são bem-vindas!
-
-Faça um fork
-
-Crie uma branch (git checkout -b feature/sua-feature)
-
-Commit suas alterações (git commit -m 'feat: adiciona nova feature')
-
-Push (git push origin feature/sua-feature)
-
-Abra um Pull Request
-
-📄 Licença
-Este projeto está sob a licença MIT.
-
-🛠️ Pré-requisitos
-Node.js e npm instalados
-
-Conhecimento básico em React e Tailwind CSS
+⭐ **_"Soluções simples para desafios complexos"_**
